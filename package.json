@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/D35P4C1T0/imdb-score-tgbot#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "telegraf": "^3.36.0",
     "telegraf-inline-menu": "^4.0.0"
